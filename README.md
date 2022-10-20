@@ -5,3 +5,6 @@ Siddhant Singh
 Vidhant
 Keshav
 Arpit Goyal
+
+## Deployment
+The project is currently deployed using Vercel and you can view it here https://house-hunters.vercel.app/
