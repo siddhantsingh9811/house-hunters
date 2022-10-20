@@ -26,4 +26,18 @@
 }
 .navbar a:hover {
   color: 
-  
+}
+/* list */
+.list-preview {
+  padding: 10px 16px;
+  margin: 30px 0;
+  box-shadow: rgba(0, 0, 0, 0.10) 0px 5px 15px 0px;
+}
+.list-preview h2 {
+  font-size: 20px;
+  color: #0090C1;
+  margin-bottom: 8px;
+}
+.t{
+  font-weight: bold;
+}
