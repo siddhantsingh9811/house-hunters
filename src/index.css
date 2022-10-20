@@ -27,6 +27,28 @@
 .navbar a:hover {
   color: 
 }
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.links span{
+  color: white;
+  background-color: #0090C1;
+  border-radius: 8px;
+  padding: 5px;
+  cursor: pointer;
+}
+.box h2{
+  color: #0090C1;
+  padding-bottom: 30px;
+}
+.a{
+  width: fit-content;
+}
+.a label h3{
+  width: 90px;
+}
 /* list */
 .list-preview {
   padding: 10px 16px;
