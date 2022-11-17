@@ -3,7 +3,7 @@ A simple web application for finding house prices. Made as a group assignment fo
 Contributors:-
 Siddhant Singh
 Vidhant
-Keshav
+Keshav Bhardwaj
 Arpit Goyal
 
 ## Deployment
